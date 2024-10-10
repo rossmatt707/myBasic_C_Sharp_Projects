@@ -1,0 +1,5 @@
+D:\Basic_C#_Programs\helloworld\bin\Release\net8.0\win-x64\publish\helloworld.exe
+D:\Basic_C#_Programs\helloworld\bin\Release\net8.0\win-x64\publish\helloworld.dll
+D:\Basic_C#_Programs\helloworld\bin\Release\net8.0\win-x64\publish\helloworld.deps.json
+D:\Basic_C#_Programs\helloworld\bin\Release\net8.0\win-x64\publish\helloworld.runtimeconfig.json
+D:\Basic_C#_Programs\helloworld\bin\Release\net8.0\win-x64\publish\helloworld.pdb

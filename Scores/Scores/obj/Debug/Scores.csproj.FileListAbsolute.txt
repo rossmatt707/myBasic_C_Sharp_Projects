@@ -1,0 +1,7 @@
+D:\Basic_C#_Programs\Scores\Scores\bin\Debug\Scores.exe.config
+D:\Basic_C#_Programs\Scores\Scores\bin\Debug\Scores.exe
+D:\Basic_C#_Programs\Scores\Scores\bin\Debug\Scores.pdb
+D:\Basic_C#_Programs\Scores\Scores\obj\Debug\Scores.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\Scores\Scores\obj\Debug\Scores.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\Scores\Scores\obj\Debug\Scores.exe
+D:\Basic_C#_Programs\Scores\Scores\obj\Debug\Scores.pdb

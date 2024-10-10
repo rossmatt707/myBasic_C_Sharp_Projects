@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Basic_C#_Programs\\HelloWorldv2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BBE2BD-E328-4DBC-98C0-E77CB0463FEB}|HelloWorldv2\\HelloWorldv2.csproj|d:\\basic_c#_programs\\helloworldv2\\helloworldv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BBE2BD-E328-4DBC-98C0-E77CB0463FEB}|HelloWorldv2\\HelloWorldv2.csproj|solutionrelative:helloworldv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Basic_C#_Programs\\HelloWorldv2\\HelloWorldv2\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWorldv2\\Program.cs",
+              "ToolTip": "D:\\Basic_C#_Programs\\HelloWorldv2\\HelloWorldv2\\Program.cs",
+              "RelativeToolTip": "HelloWorldv2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:46:20.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

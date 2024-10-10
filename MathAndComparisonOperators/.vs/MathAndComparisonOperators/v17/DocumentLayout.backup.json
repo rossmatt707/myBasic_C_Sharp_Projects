@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Basic_C#_Programs\\MathAndComparisonOperators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78A890D8-6644-4D1C-9171-B32772650F30}|MathAndComparisonOperators\\MathAndComparisonOperators.csproj|d:\\basic_c#_programs\\mathandcomparisonoperators\\mathandcomparisonoperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A890D8-6644-4D1C-9171-B32772650F30}|MathAndComparisonOperators\\MathAndComparisonOperators.csproj|solutionrelative:mathandcomparisonoperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Basic_C#_Programs\\MathAndComparisonOperators\\MathAndComparisonOperators\\Program.cs",
+              "RelativeDocumentMoniker": "MathAndComparisonOperators\\Program.cs",
+              "ToolTip": "D:\\Basic_C#_Programs\\MathAndComparisonOperators\\MathAndComparisonOperators\\Program.cs",
+              "RelativeToolTip": "MathAndComparisonOperators\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:55:49.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

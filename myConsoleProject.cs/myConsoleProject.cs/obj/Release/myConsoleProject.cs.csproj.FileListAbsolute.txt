@@ -1,0 +1,7 @@
+D:\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\bin\Release\myConsoleProject.cs.exe.config
+D:\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\bin\Release\myConsoleProject.cs.exe
+D:\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\bin\Release\myConsoleProject.cs.pdb
+D:\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Release\myConsoleProject.cs.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Release\myConsoleProject.cs.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Release\myConsoleProject.cs.exe
+D:\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Release\myConsoleProject.cs.pdb
