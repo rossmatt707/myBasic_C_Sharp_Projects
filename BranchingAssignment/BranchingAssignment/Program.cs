@@ -36,16 +36,18 @@ namespace BranchingAssignment
                 Console.WriteLine("Please enter the package length: ");
                 int length = Convert.ToInt32(Console.ReadLine());
                 // Check if package is too too big (greater than 50)
-                int dimensions = width + height + length;
-                if (dimensions > 50)
+                int dimensionsAdded = width + height + length;
+                if (dimensionsAdded > 50)
                 {
                     // Display message and exit if package is too big
                     Console.WriteLine("Package too big to be shipped via Package Express.");
                     Console.ReadLine();
                     return;
                 }
+                // Calculate dimensions
+                int dimensionsMultiply = width * height * length;
                 // Calculate shipping cost
-                decimal shippingCost = (dimensions * weight) / 100;
+                decimal shippingCost = (dimensionsMultiply * weight) / 100;
                 // Display shipping cost to user
                 Console.WriteLine("Your estimated total for shipping this package is: $" + shippingCost);
                 // Thank user for using service
