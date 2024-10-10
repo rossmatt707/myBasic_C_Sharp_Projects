@@ -1,0 +1,7 @@
+D:\Basic_C#_Programs\LoopsVideo\LoopsVideo\bin\Debug\LoopsVideo.exe.config
+D:\Basic_C#_Programs\LoopsVideo\LoopsVideo\bin\Debug\LoopsVideo.exe
+D:\Basic_C#_Programs\LoopsVideo\LoopsVideo\bin\Debug\LoopsVideo.pdb
+D:\Basic_C#_Programs\LoopsVideo\LoopsVideo\obj\Debug\LoopsVideo.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\LoopsVideo\LoopsVideo\obj\Debug\LoopsVideo.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\LoopsVideo\LoopsVideo\obj\Debug\LoopsVideo.exe
+D:\Basic_C#_Programs\LoopsVideo\LoopsVideo\obj\Debug\LoopsVideo.pdb
