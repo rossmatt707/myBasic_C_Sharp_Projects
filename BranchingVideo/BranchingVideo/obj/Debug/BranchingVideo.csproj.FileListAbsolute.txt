@@ -1,0 +1,7 @@
+D:\Basic_C#_Programs\BranchingVideo\BranchingVideo\bin\Debug\BranchingVideo.exe.config
+D:\Basic_C#_Programs\BranchingVideo\BranchingVideo\bin\Debug\BranchingVideo.exe
+D:\Basic_C#_Programs\BranchingVideo\BranchingVideo\bin\Debug\BranchingVideo.pdb
+D:\Basic_C#_Programs\BranchingVideo\BranchingVideo\obj\Debug\BranchingVideo.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\BranchingVideo\BranchingVideo\obj\Debug\BranchingVideo.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\BranchingVideo\BranchingVideo\obj\Debug\BranchingVideo.exe
+D:\Basic_C#_Programs\BranchingVideo\BranchingVideo\obj\Debug\BranchingVideo.pdb
