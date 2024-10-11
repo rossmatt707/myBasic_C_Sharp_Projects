@@ -1,0 +1,7 @@
+D:\Basic_C#_Programs\StringProjectVideo\StringProjectVideo\bin\Debug\StringProjectVideo.exe.config
+D:\Basic_C#_Programs\StringProjectVideo\StringProjectVideo\bin\Debug\StringProjectVideo.exe
+D:\Basic_C#_Programs\StringProjectVideo\StringProjectVideo\bin\Debug\StringProjectVideo.pdb
+D:\Basic_C#_Programs\StringProjectVideo\StringProjectVideo\obj\Debug\StringProjectVideo.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\StringProjectVideo\StringProjectVideo\obj\Debug\StringProjectVideo.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\StringProjectVideo\StringProjectVideo\obj\Debug\StringProjectVideo.exe
+D:\Basic_C#_Programs\StringProjectVideo\StringProjectVideo\obj\Debug\StringProjectVideo.pdb
