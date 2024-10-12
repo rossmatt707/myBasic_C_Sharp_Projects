@@ -1,0 +1,7 @@
+D:\Basic_C#_Programs\ArraysAndListsVideo\ArraysAndListsVideo\bin\Debug\ArraysAndListsVideo.exe.config
+D:\Basic_C#_Programs\ArraysAndListsVideo\ArraysAndListsVideo\bin\Debug\ArraysAndListsVideo.exe
+D:\Basic_C#_Programs\ArraysAndListsVideo\ArraysAndListsVideo\bin\Debug\ArraysAndListsVideo.pdb
+D:\Basic_C#_Programs\ArraysAndListsVideo\ArraysAndListsVideo\obj\Debug\ArraysAndListsVideo.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\ArraysAndListsVideo\ArraysAndListsVideo\obj\Debug\ArraysAndListsVideo.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\ArraysAndListsVideo\ArraysAndListsVideo\obj\Debug\ArraysAndListsVideo.exe
+D:\Basic_C#_Programs\ArraysAndListsVideo\ArraysAndListsVideo\obj\Debug\ArraysAndListsVideo.pdb
