@@ -1,0 +1,14 @@
+C:\Users\souji\source\repos\ConsoleAppSixPart\ConsoleAppSixPart\bin\Debug\ConsoleAppSixPart.exe.config
+C:\Users\souji\source\repos\ConsoleAppSixPart\ConsoleAppSixPart\bin\Debug\ConsoleAppSixPart.exe
+C:\Users\souji\source\repos\ConsoleAppSixPart\ConsoleAppSixPart\bin\Debug\ConsoleAppSixPart.pdb
+C:\Users\souji\source\repos\ConsoleAppSixPart\ConsoleAppSixPart\obj\Debug\ConsoleAppSixPart.csproj.AssemblyReference.cache
+C:\Users\souji\source\repos\ConsoleAppSixPart\ConsoleAppSixPart\obj\Debug\ConsoleAppSixPart.csproj.CoreCompileInputs.cache
+C:\Users\souji\source\repos\ConsoleAppSixPart\ConsoleAppSixPart\obj\Debug\ConsoleAppSixPart.exe
+C:\Users\souji\source\repos\ConsoleAppSixPart\ConsoleAppSixPart\obj\Debug\ConsoleAppSixPart.pdb
+D:\Basic_C#_Programs\ConsoleAppSixPart\ConsoleAppSixPart\bin\Debug\ConsoleAppSixPart.exe.config
+D:\Basic_C#_Programs\ConsoleAppSixPart\ConsoleAppSixPart\bin\Debug\ConsoleAppSixPart.exe
+D:\Basic_C#_Programs\ConsoleAppSixPart\ConsoleAppSixPart\bin\Debug\ConsoleAppSixPart.pdb
+D:\Basic_C#_Programs\ConsoleAppSixPart\ConsoleAppSixPart\obj\Debug\ConsoleAppSixPart.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\ConsoleAppSixPart\ConsoleAppSixPart\obj\Debug\ConsoleAppSixPart.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\ConsoleAppSixPart\ConsoleAppSixPart\obj\Debug\ConsoleAppSixPart.exe
+D:\Basic_C#_Programs\ConsoleAppSixPart\ConsoleAppSixPart\obj\Debug\ConsoleAppSixPart.pdb

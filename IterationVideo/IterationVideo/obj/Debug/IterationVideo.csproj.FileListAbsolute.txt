@@ -1,0 +1,7 @@
+C:\Users\souji\source\repos\IterationVideo\IterationVideo\bin\Debug\IterationVideo.exe.config
+C:\Users\souji\source\repos\IterationVideo\IterationVideo\bin\Debug\IterationVideo.exe
+C:\Users\souji\source\repos\IterationVideo\IterationVideo\bin\Debug\IterationVideo.pdb
+C:\Users\souji\source\repos\IterationVideo\IterationVideo\obj\Debug\IterationVideo.csproj.AssemblyReference.cache
+C:\Users\souji\source\repos\IterationVideo\IterationVideo\obj\Debug\IterationVideo.csproj.CoreCompileInputs.cache
+C:\Users\souji\source\repos\IterationVideo\IterationVideo\obj\Debug\IterationVideo.exe
+C:\Users\souji\source\repos\IterationVideo\IterationVideo\obj\Debug\IterationVideo.pdb
