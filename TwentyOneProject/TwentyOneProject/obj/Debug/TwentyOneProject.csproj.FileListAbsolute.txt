@@ -1,0 +1,7 @@
+D:\Basic_C#_Programs\TwentyOneProject\TwentyOneProject\bin\Debug\TwentyOneProject.exe.config
+D:\Basic_C#_Programs\TwentyOneProject\TwentyOneProject\bin\Debug\TwentyOneProject.exe
+D:\Basic_C#_Programs\TwentyOneProject\TwentyOneProject\bin\Debug\TwentyOneProject.pdb
+D:\Basic_C#_Programs\TwentyOneProject\TwentyOneProject\obj\Debug\TwentyOneProject.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\TwentyOneProject\TwentyOneProject\obj\Debug\TwentyOneProject.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\TwentyOneProject\TwentyOneProject\obj\Debug\TwentyOneProject.exe
+D:\Basic_C#_Programs\TwentyOneProject\TwentyOneProject\obj\Debug\TwentyOneProject.pdb

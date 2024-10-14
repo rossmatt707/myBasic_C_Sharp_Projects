@@ -24,6 +24,11 @@ namespace StringAndIntegerAssignment
                     string userInput = Console.ReadLine();
                     // Convert user input to double. Allows for decimal result.
                     double userNumber = Convert.ToDouble(userInput);
+                    if (userNumber == 0)
+                    {
+                        throw new DivideByZeroException("Please don't divide by zero.");
+                    }   
+
                     // Loop through list of integers and divide each by user input.
                     foreach (int i in Ints)
                     {
