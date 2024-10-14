@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C772625A-DB60-4853-A2F5-8D335153507F}</ProjectGuid>
+    <ProjectGuid>{A72236F0-64DC-4FAC-8C59-8C55A1107FB7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TwentyOneProject</RootNamespace>
-    <AssemblyName>TwentyOneProject</AssemblyName>
+    <RootNamespace>CallingMethodsAssignment</RootNamespace>
+    <AssemblyName>CallingMethodsAssignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Card.cs" />
-    <Compile Include="Deck.cs" />
+    <Compile Include="MathOp.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

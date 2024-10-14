@@ -11,10 +11,35 @@ namespace TwentyOneProject
         public Deck()
         {
             Cards = new List<Card>();
-            cardOne.Face = "Two";
-            cardOne.Suit = "Hearts";
-            Cards.Add(cardOne);
+            List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };
+            List<string> Faces = new List<string>()
+            {
+                "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace"
+            };
+
+            foreach (string face in Faces)
+            {
+                foreach (string suit in Suits)
+                {
+                    Card card = new Card();
+                    card.Face = face;
+                    card.Suit = suit;
+                    Cards.Add(card);
+                }
+            }
         }
         public List<Card> Cards { get; set; }
     }
 }
+
+
+
+
+
+
+
+//Cards = new List<Card>();
+//Card cardOne = new Card();
+//cardOne.Face = "Two";
+//cardOne.Suit = "Hearts";
+//Cards.Add(cardOne);
