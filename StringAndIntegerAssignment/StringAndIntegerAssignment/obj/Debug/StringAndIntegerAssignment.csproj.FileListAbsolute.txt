@@ -1,0 +1,7 @@
+D:\Basic_C#_Programs\StringAndIntegerAssignment\StringAndIntegerAssignment\bin\Debug\StringAndIntegerAssignment.exe.config
+D:\Basic_C#_Programs\StringAndIntegerAssignment\StringAndIntegerAssignment\bin\Debug\StringAndIntegerAssignment.exe
+D:\Basic_C#_Programs\StringAndIntegerAssignment\StringAndIntegerAssignment\bin\Debug\StringAndIntegerAssignment.pdb
+D:\Basic_C#_Programs\StringAndIntegerAssignment\StringAndIntegerAssignment\obj\Debug\StringAndIntegerAssignment.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\StringAndIntegerAssignment\StringAndIntegerAssignment\obj\Debug\StringAndIntegerAssignment.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\StringAndIntegerAssignment\StringAndIntegerAssignment\obj\Debug\StringAndIntegerAssignment.exe
+D:\Basic_C#_Programs\StringAndIntegerAssignment\StringAndIntegerAssignment\obj\Debug\StringAndIntegerAssignment.pdb

@@ -1,0 +1,7 @@
+D:\Basic_C#_Programs\ExceptionHandlingVideo\ExceptionHandlingVideo\bin\Debug\ExceptionHandlingVideo.exe.config
+D:\Basic_C#_Programs\ExceptionHandlingVideo\ExceptionHandlingVideo\bin\Debug\ExceptionHandlingVideo.exe
+D:\Basic_C#_Programs\ExceptionHandlingVideo\ExceptionHandlingVideo\bin\Debug\ExceptionHandlingVideo.pdb
+D:\Basic_C#_Programs\ExceptionHandlingVideo\ExceptionHandlingVideo\obj\Debug\ExceptionHandlingVideo.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\ExceptionHandlingVideo\ExceptionHandlingVideo\obj\Debug\ExceptionHandlingVideo.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\ExceptionHandlingVideo\ExceptionHandlingVideo\obj\Debug\ExceptionHandlingVideo.exe
+D:\Basic_C#_Programs\ExceptionHandlingVideo\ExceptionHandlingVideo\obj\Debug\ExceptionHandlingVideo.pdb
