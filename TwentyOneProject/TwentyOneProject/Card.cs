@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TwentyOneProject
 {
-    internal class Card
+    public class Card
     {
         public Card() 
         { 

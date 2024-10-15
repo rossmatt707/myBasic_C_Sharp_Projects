@@ -1,0 +1,7 @@
+D:\Basic_C#_Programs\ClassSubmission5Abstract\ClassSubmission5Abstract\bin\Debug\ClassSubmission5Abstract.exe.config
+D:\Basic_C#_Programs\ClassSubmission5Abstract\ClassSubmission5Abstract\bin\Debug\ClassSubmission5Abstract.exe
+D:\Basic_C#_Programs\ClassSubmission5Abstract\ClassSubmission5Abstract\bin\Debug\ClassSubmission5Abstract.pdb
+D:\Basic_C#_Programs\ClassSubmission5Abstract\ClassSubmission5Abstract\obj\Debug\ClassSubmission5Abstract.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\ClassSubmission5Abstract\ClassSubmission5Abstract\obj\Debug\ClassSubmission5Abstract.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\ClassSubmission5Abstract\ClassSubmission5Abstract\obj\Debug\ClassSubmission5Abstract.exe
+D:\Basic_C#_Programs\ClassSubmission5Abstract\ClassSubmission5Abstract\obj\Debug\ClassSubmission5Abstract.pdb
