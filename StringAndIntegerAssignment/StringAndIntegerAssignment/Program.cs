@@ -22,17 +22,13 @@ namespace StringAndIntegerAssignment
                     Console.WriteLine("Please enter a number and we\'ll divide it into all the numbers on our list.");
                     // User input.
                     string userInput = Console.ReadLine();
-                    // Convert user input to double. Allows for decimal result.
-                    double userNumber = Convert.ToDouble(userInput);
-                    if (userNumber == 0)
-                    {
-                        throw new DivideByZeroException("Please don't divide by zero.");
-                    }   
-
+                    // Convert user input to decimal.
+                    decimal userNumber = Convert.ToDecimal(userInput); 
                     // Loop through list of integers and divide each by user input.
                     foreach (int i in Ints)
                     {
-                        double result = i / userNumber;
+                        // Divide i by userNumber and store result in decimal variable. 
+                        decimal result = i / userNumber;
                         // Output result to console using string interpolation.
                         Console.WriteLine($"{i} divided by {userNumber} equals {result:F4}");
                         // Pause for half a second.
@@ -49,7 +45,7 @@ namespace StringAndIntegerAssignment
                 }
                 catch (FormatException ex)
                 {
-                    Console.WriteLine("Please type a number.");
+                    Console.WriteLine("Input invalid... Please type a number.");
                 }
                 catch (Exception ex)
                 {
