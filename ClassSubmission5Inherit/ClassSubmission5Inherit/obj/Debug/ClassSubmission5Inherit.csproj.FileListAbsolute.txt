@@ -1,0 +1,7 @@
+D:\Basic_C#_Programs\ClassSubmission5Inherit\ClassSubmission5Inherit\bin\Debug\ClassSubmission5Inherit.exe.config
+D:\Basic_C#_Programs\ClassSubmission5Inherit\ClassSubmission5Inherit\bin\Debug\ClassSubmission5Inherit.exe
+D:\Basic_C#_Programs\ClassSubmission5Inherit\ClassSubmission5Inherit\bin\Debug\ClassSubmission5Inherit.pdb
+D:\Basic_C#_Programs\ClassSubmission5Inherit\ClassSubmission5Inherit\obj\Debug\ClassSubmission5Inherit.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\ClassSubmission5Inherit\ClassSubmission5Inherit\obj\Debug\ClassSubmission5Inherit.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\ClassSubmission5Inherit\ClassSubmission5Inherit\obj\Debug\ClassSubmission5Inherit.exe
+D:\Basic_C#_Programs\ClassSubmission5Inherit\ClassSubmission5Inherit\obj\Debug\ClassSubmission5Inherit.pdb
