@@ -1,0 +1,14 @@
+C:\Users\souji\source\repos\ClassSubmission4\ClassSubmission4\bin\Debug\ClassSubmission4.exe.config
+C:\Users\souji\source\repos\ClassSubmission4\ClassSubmission4\bin\Debug\ClassSubmission4.exe
+C:\Users\souji\source\repos\ClassSubmission4\ClassSubmission4\bin\Debug\ClassSubmission4.pdb
+C:\Users\souji\source\repos\ClassSubmission4\ClassSubmission4\obj\Debug\ClassSubmission4.csproj.AssemblyReference.cache
+C:\Users\souji\source\repos\ClassSubmission4\ClassSubmission4\obj\Debug\ClassSubmission4.csproj.CoreCompileInputs.cache
+C:\Users\souji\source\repos\ClassSubmission4\ClassSubmission4\obj\Debug\ClassSubmission4.exe
+C:\Users\souji\source\repos\ClassSubmission4\ClassSubmission4\obj\Debug\ClassSubmission4.pdb
+D:\Basic_C#_Programs\ClassSubmission4\ClassSubmission4\bin\Debug\ClassSubmission4.exe.config
+D:\Basic_C#_Programs\ClassSubmission4\ClassSubmission4\bin\Debug\ClassSubmission4.exe
+D:\Basic_C#_Programs\ClassSubmission4\ClassSubmission4\bin\Debug\ClassSubmission4.pdb
+D:\Basic_C#_Programs\ClassSubmission4\ClassSubmission4\obj\Debug\ClassSubmission4.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\ClassSubmission4\ClassSubmission4\obj\Debug\ClassSubmission4.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\ClassSubmission4\ClassSubmission4\obj\Debug\ClassSubmission4.exe
+D:\Basic_C#_Programs\ClassSubmission4\ClassSubmission4\obj\Debug\ClassSubmission4.pdb
