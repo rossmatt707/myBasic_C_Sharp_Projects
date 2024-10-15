@@ -1,5 +1,8 @@
 ﻿using System;
-
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace MethodSubmission2
 {
@@ -76,6 +79,7 @@ namespace MethodSubmission2
                             result = math.TwoInt(num1);
                             // Display the result
                             Console.WriteLine("The result is: " + result);
+                            Console.ReadLine();
                             return;
                         }
                     }
@@ -85,6 +89,7 @@ namespace MethodSubmission2
             }
             // Display the result
             Console.WriteLine("The result is: " + result);
+            Console.ReadLine();
         }
     }
 }
