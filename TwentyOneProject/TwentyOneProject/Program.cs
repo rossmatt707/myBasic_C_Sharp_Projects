@@ -12,14 +12,21 @@ namespace TwentyOneProject
         static void Main(string[] args)
         {
 
-            Deck deck = new Deck();
-            deck.Shuffle(3);
+            Card card1 = new Card();
+            Card card2 = card1;
+            card1.Face = Face.Eight;
+            card2.Face = Face.King;
 
-            foreach (Card Card in deck.Cards)
-            {
-                Console.WriteLine(Card.Face + " of " + Card.Suit);
-            }
-            Console.WriteLine(deck.Cards.Count);
+            Console.WriteLine(card1.Face);
+
+            //Deck deck = new Deck();
+            //deck.Shuffle(3);
+
+            //foreach (Card Card in deck.Cards)
+            //{
+            //    Console.WriteLine(Card.Face + " of " + Card.Suit);
+            //}
+            //Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
         }
         public enum DaysOfTheWeek
