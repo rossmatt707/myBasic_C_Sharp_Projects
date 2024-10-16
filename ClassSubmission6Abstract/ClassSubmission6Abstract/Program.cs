@@ -14,6 +14,9 @@ namespace ClassSubmission6Abstract
             employee.FirstName = "Sample"; // Set the FirstName property
             employee.LastName = "Student";// Set the LastName property
             employee.SayName(); // Output: Name: Sample Student
+
+            IQuittable quittable = employee; // Instantiate an IQuittable object
+            quittable.Quit(); // Output: Employee has quit.
             Console.ReadLine();
         }
     }
