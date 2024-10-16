@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassSubmission5Abstract
+namespace ClassSubmission6Abstract
 {
     internal class Employees : Person // Create a class called Employees that inherits from Person
     {
