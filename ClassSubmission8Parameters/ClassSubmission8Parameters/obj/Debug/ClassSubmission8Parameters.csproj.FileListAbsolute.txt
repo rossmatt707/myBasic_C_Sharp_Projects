@@ -1,0 +1,7 @@
+D:\Basic_C#_Programs\ClassSubmission8Parameters\ClassSubmission8Parameters\bin\Debug\ClassSubmission8Parameters.exe.config
+D:\Basic_C#_Programs\ClassSubmission8Parameters\ClassSubmission8Parameters\bin\Debug\ClassSubmission8Parameters.exe
+D:\Basic_C#_Programs\ClassSubmission8Parameters\ClassSubmission8Parameters\bin\Debug\ClassSubmission8Parameters.pdb
+D:\Basic_C#_Programs\ClassSubmission8Parameters\ClassSubmission8Parameters\obj\Debug\ClassSubmission8Parameters.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\ClassSubmission8Parameters\ClassSubmission8Parameters\obj\Debug\ClassSubmission8Parameters.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\ClassSubmission8Parameters\ClassSubmission8Parameters\obj\Debug\ClassSubmission8Parameters.exe
+D:\Basic_C#_Programs\ClassSubmission8Parameters\ClassSubmission8Parameters\obj\Debug\ClassSubmission8Parameters.pdb

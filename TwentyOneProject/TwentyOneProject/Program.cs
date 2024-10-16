@@ -12,22 +12,25 @@ namespace TwentyOneProject
         static void Main(string[] args)
         {
 
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Jesse";
-            game += player;
-            game -= player;
-
             Deck deck = new Deck();
             deck.Shuffle(3);
 
-            foreach (Card card in deck.Cards)
+            foreach (Card Card in deck.Cards)
             {
-                Console.WriteLine(card.Face + " of " + card.Suit);
+                Console.WriteLine(Card.Face + " of " + Card.Suit);
             }
             Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
+        }
+        public enum DaysOfTheWeek
+        {
+            Monday,
+            Tuesday,
+            Wednesday,
+            Thursday,
+            Friday,
+            Saturday,
+            Sunday
         }
 
     }
