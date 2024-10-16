@@ -1,0 +1,7 @@
+D:\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\bin\Debug\LambdaAssignment.exe.config
+D:\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\bin\Debug\LambdaAssignment.exe
+D:\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\bin\Debug\LambdaAssignment.pdb
+D:\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.exe
+D:\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.pdb

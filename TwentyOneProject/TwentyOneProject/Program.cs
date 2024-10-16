@@ -8,37 +8,44 @@ namespace TwentyOneProject
 {
     internal class Program
     {
-        
+
         static void Main(string[] args)
         {
+            Deck deck = new Deck();
+            deck.Shuffle(3);
 
-            Card card1 = new Card();
-            Card card2 = card1;
-            card1.Face = Face.Eight;
-            card2.Face = Face.King;
-
-            Console.WriteLine(card1.Face);
-
-            //Deck deck = new Deck();
-            //deck.Shuffle(3);
-
-            //foreach (Card Card in deck.Cards)
-            //{
-            //    Console.WriteLine(Card.Face + " of " + Card.Suit);
-            //}
-            //Console.WriteLine(deck.Cards.Count);
+            foreach (Card Card in deck.Cards)
+            {
+                Console.WriteLine(Card.Face + " of " + Card.Suit);
+            }
+            Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
         }
-        public enum DaysOfTheWeek
-        {
-            Monday,
-            Tuesday,
-            Wednesday,
-            Thursday,
-            Friday,
-            Saturday,
-            Sunday
-        }
-
     }
+    
 }
+
+
+
+
+
+
+
+
+
+
+//Deck deck = new Deck();
+
+//int count = deck.Cards.Count(x => x.Face == Face.Ace);
+
+//List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
+
+//List<int> numberList = new List<int>() { 1, 2, 3, 535, 342, 23 };
+
+//int sum = numberList.Where(x => x > 20).Sum();
+//Console.WriteLine(sum);
+
+//foreach (Card card in newList)
+//{
+//    Console.WriteLine(card.Face + " of " + card.Suit);
+//}
