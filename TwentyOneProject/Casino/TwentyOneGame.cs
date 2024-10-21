@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Threading.Tasks; 
+using Casino.Interfaces;
 
-namespace TwentyOneProject
+namespace Casino.TwentyOne
 {
-    internal class TwentyOneGame : Game, IWalkAway  
+    public class TwentyOneGame : Game, IWalkAway  
     {
         public TwentyOneDealer Dealer { get; set; }
         public override void Play()
@@ -46,7 +47,7 @@ namespace TwentyOneProject
                         if (blackJack)
                         {
                             Console.WriteLine("Blackjack! {0} wins [1}", player.Name, Bets[player]);
-                            player.Balance += Convert.ToInt32((Bets[player] * 1.5) + Bets[player]);                           
+                            player.Balance += (int)((Bets[player] * 1.5) + Bets[player]);
                             return;
                         }
 
@@ -103,6 +104,7 @@ namespace TwentyOneProject
                         else
                         {
                             player.IsActivelyPlaying = false;
+                            return;
                         }
                     }
                 }

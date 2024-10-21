@@ -5,3 +5,6 @@ D:\Basic_C#_Programs\TwentyOneProject\TwentyOneProject\obj\Debug\TwentyOneProjec
 D:\Basic_C#_Programs\TwentyOneProject\TwentyOneProject\obj\Debug\TwentyOneProject.csproj.CoreCompileInputs.cache
 D:\Basic_C#_Programs\TwentyOneProject\TwentyOneProject\obj\Debug\TwentyOneProject.exe
 D:\Basic_C#_Programs\TwentyOneProject\TwentyOneProject\obj\Debug\TwentyOneProject.pdb
+D:\Basic_C#_Programs\TwentyOneProject\TwentyOneProject\bin\Debug\Casino.dll
+D:\Basic_C#_Programs\TwentyOneProject\TwentyOneProject\bin\Debug\Casino.pdb
+D:\Basic_C#_Programs\TwentyOneProject\TwentyOneProject\obj\Debug\TwentyOn.8395BA01.Up2Date
