@@ -1,0 +1,12 @@
+D:\Basic_C#_Programs\FinalChallenge#545\FinalChallenge#545\obj\Debug\FinalChallenge#545.csproj.AssemblyReference.cache
+D:\Basic_C#_Programs\FinalChallenge#545\FinalChallenge#545\obj\Debug\FinalChallenge#545.csproj.CoreCompileInputs.cache
+D:\Basic_C#_Programs\FinalChallenge#545\FinalChallenge#545\bin\Debug\FinalChallenge#545.exe.config
+D:\Basic_C#_Programs\FinalChallenge#545\FinalChallenge#545\bin\Debug\FinalChallenge#545.exe
+D:\Basic_C#_Programs\FinalChallenge#545\FinalChallenge#545\bin\Debug\FinalChallenge#545.pdb
+D:\Basic_C#_Programs\FinalChallenge#545\FinalChallenge#545\bin\Debug\EntityFramework.dll
+D:\Basic_C#_Programs\FinalChallenge#545\FinalChallenge#545\bin\Debug\EntityFramework.SqlServer.dll
+D:\Basic_C#_Programs\FinalChallenge#545\FinalChallenge#545\bin\Debug\EntityFramework.xml
+D:\Basic_C#_Programs\FinalChallenge#545\FinalChallenge#545\bin\Debug\EntityFramework.SqlServer.xml
+D:\Basic_C#_Programs\FinalChallenge#545\FinalChallenge#545\obj\Debug\FinalCha.3B1ABD39.Up2Date
+D:\Basic_C#_Programs\FinalChallenge#545\FinalChallenge#545\obj\Debug\FinalChallenge#545.exe
+D:\Basic_C#_Programs\FinalChallenge#545\FinalChallenge#545\obj\Debug\FinalChallenge#545.pdb

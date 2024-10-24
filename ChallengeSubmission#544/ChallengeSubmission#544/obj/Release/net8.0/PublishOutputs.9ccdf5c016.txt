@@ -1,0 +1,7 @@
+D:\Basic_C#_Programs\ChallengeSubmission#544\ChallengeSubmission#544\obj\Release\net8.0\PubTmp\Out\ChallengeSubmission#544.exe
+D:\Basic_C#_Programs\ChallengeSubmission#544\ChallengeSubmission#544\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\Basic_C#_Programs\ChallengeSubmission#544\ChallengeSubmission#544\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\Basic_C#_Programs\ChallengeSubmission#544\ChallengeSubmission#544\obj\Release\net8.0\PubTmp\Out\ChallengeSubmission#544.dll
+D:\Basic_C#_Programs\ChallengeSubmission#544\ChallengeSubmission#544\obj\Release\net8.0\PubTmp\Out\ChallengeSubmission#544.deps.json
+D:\Basic_C#_Programs\ChallengeSubmission#544\ChallengeSubmission#544\obj\Release\net8.0\PubTmp\Out\ChallengeSubmission#544.runtimeconfig.json
+D:\Basic_C#_Programs\ChallengeSubmission#544\ChallengeSubmission#544\obj\Release\net8.0\PubTmp\Out\ChallengeSubmission#544.pdb
